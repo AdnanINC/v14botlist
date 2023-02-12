@@ -1,2 +1,2 @@
-# v14basitpartner
+# v14botlist
 https://discord.gg/JbvMtjTbwh
